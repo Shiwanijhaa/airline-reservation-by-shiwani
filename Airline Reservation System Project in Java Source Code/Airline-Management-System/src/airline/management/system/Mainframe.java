@@ -27,8 +27,8 @@ public class Mainframe extends JFrame{
 	NewLabel.setBounds(0, 0, 1920, 990); 
 	add(NewLabel); 
         
-        JLabel AirlineManagementSystem = new JLabel("Welcome To Philippine Airline, Your home in the sky");
-	AirlineManagementSystem.setForeground(Color.BLUE);
+        JLabel AirlineManagementSystem = new JLabel("Welcome To Air India,  skywalk");
+	AirlineManagementSystem.setForeground(Color.red);
         AirlineManagementSystem.setFont(new Font("Tahoma", Font.PLAIN, 36));
 	AirlineManagementSystem.setBounds(700, 60, 1000, 55);
 	NewLabel.add(AirlineManagementSystem);
